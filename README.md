@@ -11,6 +11,8 @@ A few things to note;
 That aside,
 The code functions in a straightforward fashion.
 Node.js is used to fire up the index.js file which fetches commands and acts as the center of the bot's operations.
-These commands are located in the commands folder in subfolders depending on their functions.
+These commands are located in the commands folder in subfolders depending on their functions. <br />
+<br />
+The code requires the discord.js, r2 and node.js packages. <br />
 <br />
 If you would like to contribute to the bot in any way, feel free to send me a DM on Discord (@Baker#8842) 
