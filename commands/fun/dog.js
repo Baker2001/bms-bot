@@ -6,7 +6,7 @@ module.exports = {
 
 	async execute(message) {
 
-    const dogKey = 'e498a055-0bc4-4f02-b62f-19012d61d1c5';
+    const dogKey = 'API_KEY';
     const querystring = require('querystring');
     const r2 = require('r2');
     const dogURL   = "https://api.thedogapi.com/";
