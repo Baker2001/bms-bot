@@ -6,7 +6,7 @@ module.exports = {
 
 	async execute(message) {
 
-    const catKey = 'bf6f9c53-ac0c-4e81-8b18-7413d9ad091a';
+    const catKey = 'API_KEY';
     const querystring = require('querystring');
     const r2 = require('r2');
     const catURL   = "https://api.thecatapi.com/";
