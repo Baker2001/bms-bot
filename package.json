@@ -1,0 +1,14 @@
+{
+  "name": "bms-bot",
+  "version": "1.0.0",
+  "description": "Bot for MU BMS Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abu Bakr Ayoubi",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^7.19.0"
+  }
+}
